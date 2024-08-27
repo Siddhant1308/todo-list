@@ -1,0 +1,62 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+}
+
+.MuiButton-contained {
+  background-color: #B0C4B1 !important;
+}
+
+.Mui-selected {
+  background-color: #B0C4B1 !important;
+}
+
+.MuiIconButton-root {
+  color: #757575; /* Gray color for icons */
+}
+
+.MuiTypography-h4 {
+  font-weight: bold; /* For the main heading */
+}
+
+.ListItemText-root {
+  font-size: 16px; /* Adjust text size */
+}
+
+.Box-root {
+  margin: 10px 0;
+  padding: 15px;
+}
+
+.ListItem-root {
+  padding: 10px 0;
+}
+
+.circ-progress-container {
+  text-align: center;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+.sidebar-container {
+  padding: 20px;
+  background-color: #F8F8F8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-section {
+  margin-bottom: 20px;
+}
+
+.task-section {
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  text-align: center;
+}
+
